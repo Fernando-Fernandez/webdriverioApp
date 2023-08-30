@@ -1,8 +1,8 @@
-##Logging into Salesforce using headless browser
+## Logging into Salesforce using headless browser
 
 - uses Webdriverio to silently log in Salesforce and take a screenshot
 
-#Setup steps:
+### Setup steps:
 
 - npm init
 - npm init wdio .
